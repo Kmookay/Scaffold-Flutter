@@ -1,16 +1,12 @@
-# app
+# Scaffold-Flutter
+Flutter脚手架，用来快速构建应用。
 
-A new Flutter project.
+## 目标
+1. 支持多平台
+2. 支持多语言
+3. 支持多主题
+4. 支持模块化
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 整体架构
+整体架构使用DDD（Domain Driven Design）模式，以领域驱动设计的方式来构建应用。
+功能特性：
